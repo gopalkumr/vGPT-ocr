@@ -45,3 +45,5 @@ vGPT is an advanced AI platform that combines the power of Azure OpenAI with doc
 git clone https://github.com/gopalkumr/vGPT-ocr.git
 cd vGPT-ocr
 ```
+visit other Machine Learning Project
+:  [visionML](https://visionml.tech)
