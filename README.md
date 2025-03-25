@@ -1,7 +1,7 @@
 # vGPT - AI Vision & Chat Platform
 
 <div align="center">
-  <img src="public/og-image.png" alt="vGPT Logo" width="150"/>
+  <img src="public/og-image.png" alt="vGPT Logo" width="800" height="400"/>
   
   [Live Demo](https://chat.visionml.tech) | [Report Bug](https://github.com/gopalkumr/vGPT-ocr/issues) | [Request Feature](https://github.com/gopalkumr/vGPT-ocr/issues)
 </div>
